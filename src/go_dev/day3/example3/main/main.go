@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	str := " Hell word abc  \n"
+	str := " Hell world abc  \n"
 	result := strings.Replace(str, "word", "you", 1)
 	fmt.Println(result)
 
