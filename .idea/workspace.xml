@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e757e3b4-04e1-4e70-9e3e-10f6f050cf14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/go_dev/day2/example17/main/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/day3/work/example1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/day3/work/example2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_dev/day3/work/example3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/day3/example1-2/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/go_dev/day3/example3/main/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_dev/day2/example9/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_dev/day2/example9/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_dev/day3/work/example3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_dev/day3/work/example3/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +16,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/go_dev/day3/work/example3/main.go">
+        <entry file="file://$PROJECT_DIR$/src/go_dev/day3/example3/main/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="484">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+              <folding>
+                <element signature="e#14#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,12 +64,15 @@
         <option value="$PROJECT_DIR$/src/go_dev/day3/work/example1/main.go" />
         <option value="$PROJECT_DIR$/src/go_dev/day3/work/example2/main.go" />
         <option value="$PROJECT_DIR$/src/go_dev/day3/work/example3/main.go" />
+        <option value="$PROJECT_DIR$/src/go_dev/day3/example4/main/main.go" />
+        <option value="$PROJECT_DIR$/src/go_dev/day3/example1-2/main/main.go" />
+        <option value="$PROJECT_DIR$/src/go_dev/day3/example3/main/main.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="411" />
-    <option name="y" value="111" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="422" />
+    <option name="y" value="157" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
@@ -94,12 +98,6 @@
             <path>
               <item name="Go_WorkSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_WorkSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Go_WorkSpace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Go_WorkSpace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -121,7 +119,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="go_dev" type="462c0819:PsiDirectoryNode" />
               <item name="day3" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="example3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,29 +151,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (3)">
-    <configuration name="example2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="Go_WorkSpace" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="DIRECTORY" />
-      <filePath value="$PROJECT_DIR$/calc.go|D:\Go_WorkSpace\src\go_dev\day2\example2\main\main.go" />
-      <directory value="D:\Go_WorkSpace\src\go_dev\day2\example2\main" />
-      <output_directory value="D:\Go_WorkSpace\bin" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_WorkSpace" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/go_dev/day2/example17/main/main.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go_WorkSpace" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/go_dev/day3/work/example1/main.go" />
+      <filePath value="$PROJECT_DIR$/src/go_dev/day3/example3/main/main.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -187,11 +168,27 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_WorkSpace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/go_dev/day3/work/example3/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_WorkSpace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/go_dev/day3/example4/main/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_WorkSpace" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/go_dev/day2/example2/main/main.go" />
+      <filePath value="$PROJECT_DIR$/src/go_dev/day3/example1-2/main/main.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -206,33 +203,33 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.list" />
-      <item itemvalue="Go Build.example2" />
+      <item itemvalue="Go Build.go build main.go (3)" />
+      <item itemvalue="Go Build.go build main.go (4)" />
+      <item itemvalue="Go Build.go build main.go (5)" />
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Build.go build main.go (1)" />
-      <item itemvalue="Go Build.go build main.go (2)" />
-      <item itemvalue="Go Build.go build main.go (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (3)" />
-        <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.example2" />
+        <item itemvalue="Go Build.go build main.go (5)" />
+        <item itemvalue="Go Build.go build main.go (4)" />
+        <item itemvalue="Go Build.go build main.go (3)" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="697" y="98" width="1400" height="990" extended-state="0" />
+    <frame x="848" y="106" width="1400" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3325554" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976957" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3325554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -515,8 +512,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/go_dev/day3/work/example3/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="342">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_dev/day3/example1-2/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/go_dev/day3/example3/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
